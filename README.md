@@ -1,4 +1,4 @@
-<div style="margin-left:100px"><img  src="https://user-images.githubusercontent.com/82999578/133923386-5f64ff6b-74d9-4b03-91c2-5604b0b7a44c.gif"/></div>
+<div style="margin-left:500px"><img  src="https://user-images.githubusercontent.com/82999578/133923386-5f64ff6b-74d9-4b03-91c2-5604b0b7a44c.gif"/></div>
 
 
 <h1 align="center">Hi 👋, I'm Niket Nayan</h1>
