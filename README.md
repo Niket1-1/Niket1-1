@@ -1,4 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/82999578/133923386-5f64ff6b-74d9-4b03-91c2-5604b0b7a44c.gif)
+<video src="https://user-images.githubusercontent.com/82999578/133923386-5f64ff6b-74d9-4b03-91c2-5604b0b7a44c.gif"></video>
 
 <h1 align="center">Hi 👋, I'm Niket Nayan</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
